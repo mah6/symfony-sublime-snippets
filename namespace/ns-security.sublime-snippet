@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+use Sensio\Bundle\FrameworkExtraBundle\Configuration\Security;
+]]></content>
+	<tabTrigger>nssecurity</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
+

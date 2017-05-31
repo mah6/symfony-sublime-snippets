@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+use Symfony\Component\Form\Extension\Core\Type\\${1:name}Type;
+]]></content>
+	<tabTrigger>nsbaseType</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

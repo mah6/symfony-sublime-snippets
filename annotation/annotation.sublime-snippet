@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @${1:Annotation}${2:($3)}
+ */
+
+]]></content>
+	<tabTrigger>atannotation</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+	<description>Create annotation</description>
+</snippet>

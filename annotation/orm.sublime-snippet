@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @ORM\\${2:class}
+ */
+	]]></content>
+	<tabTrigger>atorm</tabTrigger>
+	<description>ORM Annotation</description>
+</snippet>

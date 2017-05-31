@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:@param ${2:type} ${3:name} ${4:description}}
+ ${5:* @return ${6:type} ${7:description}}
+ */
+	]]></content>
+	<tabTrigger>atdocblock</tabTrigger>
+	<description>Doc Annotation</description>
+</snippet>

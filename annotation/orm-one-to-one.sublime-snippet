@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @ORM\OneToOne(targetEntity="${1:entity}"${2:, cascade=\{"${3:persist}"\}})
+ */
+	]]></content>
+	<tabTrigger>atonetoone</tabTrigger>
+</snippet>

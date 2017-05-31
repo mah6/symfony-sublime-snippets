@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Route("${1:route}", name="${2:name}", ${3:requirements=\{"${4:param}": "${5:value}"\}})
+ */
+
+]]></content>
+	<tabTrigger>atroute</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+	<description>Route annotation</description>
+</snippet>

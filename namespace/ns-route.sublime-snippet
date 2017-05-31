@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
+]]></content>
+	<tabTrigger>nsroute</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

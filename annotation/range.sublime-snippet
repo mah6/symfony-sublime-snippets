@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Range(
+ * 		min = ${1:min}, minMessage="${2:min_message}"
+ *		max = ${3:max}, maxMessage="${4:max_message}"
+ * )
+ */
+]]></content>
+	<tabTrigger>atrange</tabTrigger>
+	<description>Contraint Range Annotation</description>
+</snippet>

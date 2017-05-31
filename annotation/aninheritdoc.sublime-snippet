@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * {@inheritdoc} ${1:description}
+ */
+	]]></content>
+	<tabTrigger>atinheritdoc</tabTrigger>
+	<description>Inherit Doc annotation</description>
+</snippet>
