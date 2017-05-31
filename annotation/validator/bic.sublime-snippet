@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Bic(${1:message = "${2:This is not a valid Business Identifier Code (BIC).}"})
+ */]]></content>
+	<tabTrigger>atbic</tabTrigger>
+	<description>Bic Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

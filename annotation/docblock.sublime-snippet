@@ -7,4 +7,5 @@
 	]]></content>
 	<tabTrigger>atdocblock</tabTrigger>
 	<description>Doc Annotation</description>
+	<scope>source.php</scope>
 </snippet>

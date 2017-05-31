@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Ip(
+ *     message = "${1:This is not a valid IP address.}"${2:,
+ *     type = ${3:4}}
+ * )
+ */]]></content>
+	<tabTrigger>atip</tabTrigger>
+	<description>Ip Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

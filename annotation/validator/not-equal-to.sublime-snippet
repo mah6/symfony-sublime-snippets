@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\NotEqualTo(${1:value}${2:
+ *     value = ${3:value},
+ *     message = "${4:This value should not be equal to \{\{ compared_value \}\}.}"
+ * })
+ */]]></content>
+	<tabTrigger>atnotequalto</tabTrigger>
+	<description>NotEqualTo Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

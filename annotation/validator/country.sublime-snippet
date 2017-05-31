@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Country(${1:message = "${2:"This value is not a valid country."}"})
+ */]]></content>
+	<tabTrigger>atcountry</tabTrigger>
+	<description>Country Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

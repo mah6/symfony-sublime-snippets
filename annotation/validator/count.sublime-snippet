@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Count(
+ *     min = ${1:min},${2: minMessage = "${3:This collection should contain \{\{ limit \}\} elements or more.}",}
+ *     max = ${4:max}${5: ,maxMessage = "${6:This collection should contain \{\{ limit \}\} elements or less.}"}
+ * )
+ */]]></content>
+	<tabTrigger>atcount</tabTrigger>
+	<description>Count Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

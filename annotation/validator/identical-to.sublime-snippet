@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\IdenticalTo(${1:value}${2:
+ *     value = ${3:value},
+ *     message = "${4:This value should be identical to \{\{ compared_value_type \}\} \{\{ compared_value \}\}.}"
+ * })
+ */]]></content>
+	<tabTrigger>atidenticalto</tabTrigger>
+	<description>IdenticalTo Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

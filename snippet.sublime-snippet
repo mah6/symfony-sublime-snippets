@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[snippet>content\{<![CDATA[]]$NOT_DEFINED>\}+tabTrigger\{${1:tabTrigger}\}+description\{${2:description}\}+scope\{${3:source.php}\}]]></content>
+	<tabTrigger>snippet</tabTrigger>
+	<description>Sublime snippet snippet</description>
+</snippet>

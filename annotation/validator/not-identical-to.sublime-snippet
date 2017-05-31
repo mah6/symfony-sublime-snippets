@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\NotIdenticalTo(${1:value}${2:
+ *     value = ${3:value},
+ *     message = "${4:This value should not be identical to \{\{ compared_value_type \}\} \{\{ compared_value \}\}.}"
+ * })
+ */]]></content>
+	<tabTrigger>atnotidenticalto</tabTrigger>
+	<description>NotIdenticalTo Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

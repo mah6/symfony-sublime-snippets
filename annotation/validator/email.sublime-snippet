@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Email(
+ *     message = "${1:The email '\{\{ value \}\}' is not a valid email.}"${2:,
+ *     checkMX = ${3:true}}
+ * )
+ */]]></content>
+	<tabTrigger>atemail</tabTrigger>
+	<description>Email Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

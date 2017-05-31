@@ -6,4 +6,5 @@
 	]]></content>
 	<tabTrigger>atinheritdoc</tabTrigger>
 	<description>Inherit Doc annotation</description>
+	<scope>source.php</scope>
 </snippet>

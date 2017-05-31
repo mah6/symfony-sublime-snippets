@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\LessThan(${1:value}${2:
+ *     value = ${3:value}${4:,
+ *     message = "${5:This value should be less than \{\{ compared_value \}\}.}"}
+ * })
+ */]]></content>
+	<tabTrigger>atlessthan</tabTrigger>
+	<description>LessThan Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

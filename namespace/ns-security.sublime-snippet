@@ -4,5 +4,6 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Security;
 ]]></content>
 	<tabTrigger>nssecurity</tabTrigger>
 	<scope>source.php</scope>
+	<description>use Sensio\Bundle\FrameworkExtraBundle\Configuration\Security;</description>
 </snippet>
 

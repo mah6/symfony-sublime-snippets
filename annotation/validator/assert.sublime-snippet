@@ -6,4 +6,5 @@
 ]]></content>
 	<tabTrigger>atassert</tabTrigger>
 	<description></description>
+	<scope>source.php</scope>
 </snippet>

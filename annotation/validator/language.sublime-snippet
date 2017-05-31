@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Language(${1:message = "${2:This value is not a valid language.}"})
+ */]]></content>
+	<tabTrigger>atlanguage</tabTrigger>
+	<description>Language Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

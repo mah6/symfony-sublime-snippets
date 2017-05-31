@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\GreaterThan(${1:value}${2:
+ *     value = ${3:value}${4:,
+ *     message = "${5:This value should be greater than \{\{ compared_value \}\}.}"}
+ * })
+ */]]></content>
+	<tabTrigger>atgreaterthan</tabTrigger>
+	<description>GreaterThan Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

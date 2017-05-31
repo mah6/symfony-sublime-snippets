@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Date(${1: message = "${2:This value is not a valid date.}"})
+ */]]></content>
+	<tabTrigger>atdate</tabTrigger>
+	<description>Date Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

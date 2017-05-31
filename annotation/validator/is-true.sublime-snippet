@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\IsTrue(message="${1:This value should be true.}")
+ */]]></content>
+	<tabTrigger>atistrue</tabTrigger>
+	<description>IsTrue Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\File(${1:
+ *     ${2:mimeTypes = \{"${3:application/pdf}"\}}${4:,
+ *     mimeTypesMessage = "${5:The mime type of the file is invalid (\{\{ type \}\}). Allowed mime types are \{\{ types \}\}. }"}${6:, 
+ *     maxSize = "${7:1024k}"${8:,
+ *     maxSizeMessage = "${9:The file is too large (\{\{ size \}\} \{\{ suffix \}\}). Allowed maximum size is \{\{ limit \}\} \{\{ suffix \}\}.}"}}
+ * })
+ */]]></content>
+	<tabTrigger>atfile</tabTrigger>
+	<description>File Constraint Validation</description>
+	<scope>source.php</scope>
+</snippet>

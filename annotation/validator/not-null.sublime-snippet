@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\NotNull(message = "${1:This value should not be null.}")
+ */]]></content>
+	<tabTrigger>atnotnull</tabTrigger>
+	<description>NotNull Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

@@ -4,4 +4,5 @@ use Symfony\Component\HttpFoundation\Response;
 ]]></content>
 	<tabTrigger>nsresponse</tabTrigger>
 	<scope>source.php</scope>
+	<description>use Symfony\Component\HttpFoundation\Response;</description>
 </snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Time(${1:message = "${2:This value is not a valid time.}"})
+ */]]></content>
+	<tabTrigger>attime</tabTrigger>
+	<description>Time Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Type(
+ *     type = "${1:string}"${2:,
+ *     message = "${3:This value should be of type \{\{ type \}\}.}"}
+ * )
+ */]]></content>
+	<tabTrigger>attype</tabTrigger>
+	<description>Type Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

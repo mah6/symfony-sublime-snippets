@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Blank(message = "${1:This value should be blank.}")
+ */]]></content>
+	<tabTrigger>atblank</tabTrigger>
+	<description>Blank Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>
