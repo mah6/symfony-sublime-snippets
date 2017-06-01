@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Luhn(${1:message = "${2:Invalid card number.}"})
+ */]]></content>
+	<tabTrigger>atluhn</tabTrigger>
+	<description>Luhn Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

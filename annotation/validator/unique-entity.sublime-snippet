@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * DON'T forget this use statement!!!
+ * use Symfony\Bridge\Doctrine\Validator\Constraints\UniqueEntity;
+ *
+ * @UniqueEntity(${1:fieldName}${2:
+ *      fields = \{"${3:fieldName}"\}${4:,
+ *      message = "${5:This value is already used.}"}${6:,
+ *      errorPath = "${3:fieldName}"}
+ * })
+ *
+ */]]></content>
+	<tabTrigger>atuniqueentity</tabTrigger>
+	<description>UniqueEntity Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

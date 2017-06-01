@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Image(${1:
+ *     ${2:minWidth = ${3:10}${4:, minWidthMessage = ${5:"The image width is too small (\{\{ width \}\}px). Minimum width expected is \{\{ min_width \}\}px."}}}${6:,
+ *     maxWidth = ${7:1200}}${8:, maxWidthMessage = "${9:The image width is too big (\{\{ width \}\}px). Allowed maximum width is \{\{ max_width \}\}px.}"}${10:,
+ *     minHeight = ${11:10}${12:, minHeightMessage = ${13:"The image height is too small (\{\{ height \}\}px). Minimum height expected is \{\{ min_height \}\}px."}}}${14:,
+ *     maxHeight = ${15:1200}}${16:, maxHeightMessage = "${17:The image height is too big (\{\{ height \}\}px). Allowed maximum height is \{\{ max_height \}\}px.}"}${18:,
+ *     minRatio = ${19:1}${20:, minRatioMessage = "${21:The image ratio is too small (\{\{ ratio \}\}). Minimum ratio expected is \{\{ min_ratio \}\}}"}}${22:,
+ *     maxRatio = ${23:1}${24:, maxRatioMessage = "${25:The image ratio is too big (\{\{ ratio \}\}). Allowed maximum ratio is \{\{ max_ratio \}\}}"}}
+ * })
+ */]]></content>
+	<tabTrigger>atimage</tabTrigger>
+	<description>Image Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Iban(${1:message = "${2:This is not a valid International Bank Account Number (IBAN).}"})
+ */]]></content>
+	<tabTrigger>atiban</tabTrigger>
+	<description>Iban Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

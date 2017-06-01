@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\All(\{
+ *     @Assert\\${1:NotBlank($2)}
+ * \})
+ */]]></content>
+	<tabTrigger>atall</tabTrigger>
+	<description>All Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

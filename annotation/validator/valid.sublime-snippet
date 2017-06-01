@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Valid${1:(traverse = ${3:true})}
+ */]]></content>
+	<tabTrigger>atvalid</tabTrigger>
+	<description>Valid Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

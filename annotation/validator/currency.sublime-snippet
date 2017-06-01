@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Currency(${1:message = "${2:This value is not a valid currency.}"})
+ */]]></content>
+	<tabTrigger>atcurrency</tabTrigger>
+	<description>Currency Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

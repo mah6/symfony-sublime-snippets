@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\Callback
+ */]]></content>
+	<tabTrigger>atcallback</tabTrigger>
+	<description>Callback Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>

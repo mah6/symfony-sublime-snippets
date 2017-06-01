@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @Assert\CardScheme(
+ *     schemes = \{"${1:VISA}"\}${2:,
+ *     message = "${3:Unsupported card type or invalid card number.}"}
+ * )
+ */]]></content>
+	<tabTrigger>atcardscheme</tabTrigger>
+	<description>CardScheme Constraint Annotation</description>
+	<scope>source.php</scope>
+</snippet>
