@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\Regex(
- *     pattern = "/${1:\w+}/"${2:,
- *     message = "${3:This value is not valid.}"}
+ *		pattern = "/${1:\w+}/"${2:,
+ *		message = "${3:This value is not valid.}"}
  * )
  */]]></content>
 	<tabTrigger>atregex</tabTrigger>

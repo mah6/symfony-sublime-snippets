@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\Range(
- *     min = ${1:min}, minMessage="${2:This value should be \{\{ limit \}\} or more.}"
- *     max = ${3:max}, maxMessage="${4:This value should be \{\{ limit \}\} or less.}"
+ *		min = ${1:min}, minMessage="${2:This value should be \{\{ limit \}\} or more.}"
+ *		max = ${3:max}, maxMessage="${4:This value should be \{\{ limit \}\} or less.}"
  * )
  */
 ]]></content>

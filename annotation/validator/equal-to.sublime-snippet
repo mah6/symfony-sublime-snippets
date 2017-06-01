@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\EqualTo(${1:value}${2:
- *     value = ${3:value},
- *     message = "${4:This value should be equal to \{\{ compared_value \}\}.}"
+ *		value = ${3:value},
+ *		message = "${4:This value should be equal to \{\{ compared_value \}\}.}"
  * })
  */]]></content>
 	<tabTrigger>atequalto</tabTrigger>

@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\Isbn(${1:message = "${2:This value is neither a valid ISBN-10 nor a valid ISBN-13.}"}${3:
- *     type = ${4:null}${5:,
- *     message = "${6:This value is not  valid.}"}
+ *		type = ${4:null}${5:,
+ *		message = "${6:This value is not  valid.}"}
  * })
  */]]></content>
 	<tabTrigger>atisbn</tabTrigger>

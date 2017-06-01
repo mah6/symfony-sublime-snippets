@@ -2,15 +2,15 @@
 	<content><![CDATA[
 /**
  * @Assert\Collection(
- *     fields = \{
- *         "${1:fieldname}" = \{
- *              @Assert\\${2:NotBlank()}
- *          \}
- *     \}${3:,
- *     allowMissingFields = ${4:true}}${5:,
- *     missingFieldsMessage = "${6:The fields \{\{ fields \}\} are missing.}"}${7:,
- *     allowExtraFields = ${8:false}${9:,
- *     extraFieldsMessage = "The fields \{\{ fields \}\} are missing."}}
+ *		fields = \{
+ *			"${1:fieldname}" = \{
+ *				@Assert\\${2:NotBlank()}
+ *			\}
+ *		\}${3:,
+ *		allowMissingFields = ${4:true}}${5:,
+ *		missingFieldsMessage = "${6:The fields \{\{ fields \}\} are missing.}"}${7:,
+ *		allowExtraFields = ${8:false}${9:,
+ *		extraFieldsMessage = "The fields \{\{ fields \}\} are missing."}}
  * )
  */]]></content>
 	<tabTrigger>atcollection</tabTrigger>

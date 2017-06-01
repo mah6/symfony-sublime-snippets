@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\Url(
- *     message="${1:This value is not a valid URL.}"${2:,
- *     protocols = \{"${3:http}"${4:, "${5:https}"}\}}
+ *		message="${1:This value is not a valid URL.}"${2:,
+ *		protocols = \{"${3:http}"${4:, "${5:https}"}\}}
  * )
  */]]></content>
 	<tabTrigger>aturl</tabTrigger>

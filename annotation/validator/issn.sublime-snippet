@@ -2,9 +2,9 @@
 	<content><![CDATA[
 /**
  * @Assert\Issn(${1:
- *     ${2:message = "${3:This value is not a valid ISSN.}"}${4:,
- *     caseSensitive = ${5:false}}${6:,
- *     requireHyphen = ${7:false}}
+ *		${2:message = "${3:This value is not a valid ISSN.}"}${4:,
+ *		caseSensitive = ${5:false}}${6:,
+ *		requireHyphen = ${7:false}}
  * })
  */]]></content>
 	<tabTrigger>atissn</tabTrigger>

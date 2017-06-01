@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\Length(
- *     min = ${1:min}, minMessage="${2:This value is too short. It should have \{\{ limit \}\} characters or more.}"
- *     max = ${3:max}, maxMessage="${4:This value is too long. It should have \{\{ limit \}\} characters or less.}"
+ *		min = ${1:min}, minMessage="${2:This value is too short. It should have \{\{ limit \}\} characters or more.}"
+ *		max = ${3:max}, maxMessage="${4:This value is too long. It should have \{\{ limit \}\} characters or less.}"
  * )
  */]]></content>
 	<tabTrigger>atlength</tabTrigger>

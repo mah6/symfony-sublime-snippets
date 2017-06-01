@@ -2,7 +2,7 @@
 	<content><![CDATA[
 /**
  * @Assert\All(\{
- *     @Assert\\${1:NotBlank($2)}
+ *		@Assert\\${1:NotBlank($2)}
  * \})
  */]]></content>
 	<tabTrigger>atall</tabTrigger>

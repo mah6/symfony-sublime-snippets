@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\DateTime(${1: 
- *     message = "${2:This value is not a valid datetime.}"${3:,
- *     format = "${4:Y-m-d H\:i\:s}"}
+ *		message = "${2:This value is not a valid datetime.}"${3:,
+ *		format = "${4:Y-m-d H\:i\:s}"}
  * })
  */]]></content>
 	<tabTrigger>atdatetime</tabTrigger>

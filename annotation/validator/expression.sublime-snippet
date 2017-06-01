@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\Expression(
- *     "${1:this.getId() > 10}"${2:,
- *     message = "${3:This value is not valid.}"}
+ *		"${1:this.getId() > 10}"${2:,
+ *		message = "${3:This value is not valid.}"}
  * )
  */]]></content>
 	<tabTrigger>atexpression</tabTrigger>

@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\Type(
- *     type = "${1:string}"${2:,
- *     message = "${3:This value should be of type \{\{ type \}\}.}"}
+ *		type = "${1:string}"${2:,
+ *		message = "${3:This value should be of type \{\{ type \}\}.}"}
  * )
  */]]></content>
 	<tabTrigger>attype</tabTrigger>

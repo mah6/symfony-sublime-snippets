@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\GreaterThanOrEqual(${1:value}${2:
- *     value = ${3:value}${4:,
- *     message = "${5:This value should be greater than or equal to \{\{ compared_value \}\}.}"}
+ *		value = ${3:value}${4:,
+ *		message = "${5:This value should be greater than or equal to \{\{ compared_value \}\}.}"}
  * })
  */]]></content>
 	<tabTrigger>atgreaterthanorequal</tabTrigger>

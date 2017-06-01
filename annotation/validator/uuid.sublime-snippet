@@ -2,8 +2,8 @@
 	<content><![CDATA[
 /**
  * @Assert\Uuid(
- *     message = ${1:This is not a valid UUID.}${2:,
- *     strict = ${3:true}}
+ *		message = ${1:This is not a valid UUID.}${2:,
+ *		strict = ${3:true}}
  * )
  */]]></content>
 	<tabTrigger>atuuid</tabTrigger>

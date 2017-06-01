@@ -2,10 +2,10 @@
 	<content><![CDATA[
 /**
  * @Assert\Choice(${1:\{\}}${2:
- *     choices = \{"${3:choice}"\}${4:,
- *     message = "${5:The value you selected is not a valid choice.}"}${6:,
- *     callback = "${7:callbackName}"}${8:,
- *     multiple = ${9:false}}
+ *		choices = \{"${3:choice}"\}${4:,
+ *		message = "${5:The value you selected is not a valid choice.}"}${6:,
+ *		callback = "${7:callbackName}"}${8:,
+ *		multiple = ${9:false}}
  * })
  */]]></content>
 	<tabTrigger>atchoice</tabTrigger>
